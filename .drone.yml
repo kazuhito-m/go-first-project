@@ -1,6 +1,6 @@
 notify:
   slack:
-    webhook_url: 'https://hooks.slack.com/services/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'
+    webhook_url: $$SLACK_URL
     username: 'drone'
     channel: '#miuras_gomibako'
     on_started: false
