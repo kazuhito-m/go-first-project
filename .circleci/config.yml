@@ -15,7 +15,7 @@ jobs:
 
       - run: go get
 
-      - run: go test ./...
+      - run: go test -v ./...
 
       - discord/status:
           fail_only: true
