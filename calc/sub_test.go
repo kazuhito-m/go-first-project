@@ -2,8 +2,7 @@ package calc
 
 import "testing"
 
-// 引き算のテストその１
-func TestSub(t *testing.T) {
+func Test引き算のテストその01(t *testing.T) {
 	const x, y, expected = 3, 2, 1
 	actual := Sub(x, y)
 	if actual != expected {
@@ -11,8 +10,7 @@ func TestSub(t *testing.T) {
 	}
 }
 
-// 引き算のテストその１
-func TestSub2(t *testing.T) {
+func Test引き算のテストその02(t *testing.T) {
 	const x, y, expected = 6, 4, 2
 	actual := Sub(x, y)
 	if actual != expected {

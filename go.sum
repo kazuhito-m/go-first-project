@@ -1,0 +1,4 @@
+github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
+github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
+github.com/kazuhito-m/go-first-project v0.0.0-20161028122115-2021d3097c27 h1:oHsBRYibv+Kf60QguESwSvrGwpMK9I/xNmjWsAsahWI=
+github.com/kazuhito-m/go-first-project v0.0.0-20161028122115-2021d3097c27/go.mod h1:G8DfHXfmgEXuxG2Ualewl0aHKhLTbbBe9eH0MNJRHvs=
