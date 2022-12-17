@@ -10,7 +10,7 @@ GO言語で三浦が「初めて作った」プログラム兼実験場です。
 
 ## Latest integration
 
-+ master : [![Build Status](https://drone.io/github.com/kazuhito-m/go-first-project/status.png?)](https://drone.io/github.com/kazuhito-m/go-first-project/latest) by Drone IO
++ master : [![ci](https://github.com/kazuhito-m/go-first-project/actions/workflows/ci.yml/badge.svg)](https://github.com/kazuhito-m/go-first-project/actions/workflows/ci.yml) by Github Actions
 + master : [![Circle CI](https://circleci.com/gh/kazuhito-m/go-first-project.svg?style=svg)](https://circleci.com/gh/kazuhito-m/go-first-project) by Circle CI
 
 ## author
