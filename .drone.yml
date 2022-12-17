@@ -1,5 +1,0 @@
-notify:
-  slack:
-    webhook_url: $$SLACK_URL
-    channel: dev
-    username: drone
